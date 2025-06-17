@@ -10,12 +10,18 @@ Hey there, I'm Tetiana!
    </div>
   
 ### About Me :
-I'm a Frontend Developer passionate about building fast, accessible, and delightful web experiences.  
-My stack includes **React**, **Next.js**, **TypeScript**, **GSAP**, **TailwindCSS**, and more.
+Frontend wizard ⚡ crafting magical UIs with React, Next.js & good taste.  
+I combine *clean code* + *clean design* to build websites that wow users and please Google (hello SEO 👀).
 
-🔹 I love creating pixel-perfect UIs, SEO-optimized pages, and smooth animations.  
-🔹 Currently building multilingual, SSR-ready websites with a focus on performance and UX.  
-🔹 Based in Europe, open to remote work and freelance collaborations.
+🛠 Currently into:  
+- ✨ Smooth UI/UX  
+- 🌍 Multilingual SSR sites  
+- 🧪 Tech + Design + Conversion  
+
+If it animates, loads fast, and looks sharp — chances are I built it (or wanted to).
+Let’s make the internet prettier (and faster) — one commit at a time 🚀
+
+
 
 ### Languages :
 
