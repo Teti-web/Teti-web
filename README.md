@@ -72,11 +72,11 @@ My stack includes **React**, **Next.js**, **TypeScript**, **GSAP**, **TailwindCS
         <img src="./images/09-astro.svg" alt="Astro.js" width="44" height="44"/>
       <br>Astro.js
     </td>
-  </tr>
-    <td align="center" width="88">
+     <td align="center" width="88">
         <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
       <br>Sass
     </td>
+  </tr>
     <td align="center" width="88"> 
         <img src="./images/11-bem.svg" alt="Bem" width="44" height="44"/>
       <br>BEM
