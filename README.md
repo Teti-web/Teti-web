@@ -72,10 +72,6 @@ My stack includes **React**, **Next.js**, **TypeScript**, **GSAP**, **TailwindCS
         <img src="./images/09-astro.svg" alt="Astro.js" width="44" height="44"/>
       <br>Astro.js
     </td>
-        <td align="center" width="88">
-       <img src="./images/09-sql.svg" alt="SQL" width="44" height="44"/>
-      <br>SQL
-      </td>
   </tr>
     <td align="center" width="88">
         <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
@@ -137,5 +133,5 @@ My stack includes **React**, **Next.js**, **TypeScript**, **GSAP**, **TailwindCS
 <br>
 
 <div align="center">
-<a href="https://buymeacoffee.com/rohatetiann" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 180px !important;" ></a>
+<a href="coff.ee/rohatetiann" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 180px !important;" ></a>
 </div>
