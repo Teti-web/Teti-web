@@ -132,6 +132,6 @@ My stack includes **React**, **Next.js**, **TypeScript**, **GSAP**, **TailwindCS
 </table>
 <br>
 
-<div align="center">
+<!-- <div align="center">
 <a href="coff.ee/rohatetiann" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 180px !important;" ></a>
-</div>
+</div> -->
